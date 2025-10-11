@@ -23,3 +23,4 @@ if [ -x "$NEXUS_PROTOCOL" ]; then
 else
     echo "⚠️ [$(date '+%Y-%m-%d %H:%M:%S')] Nexus Protocol missing or not executable." >> "$RESONANTIA_HOME/0_OPERATIONS/Logbook/Continuum_Daemon.log"
 fi
+bash $HOME/RESONANTIA_MASTER/5_INFRA/Services/codex_push_lock.sh
