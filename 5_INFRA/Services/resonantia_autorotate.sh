@@ -13,3 +13,4 @@ mv /tmp/codex_\$DATE.tar.gz.gpg \$RESONANTIA_ARCHIVE/
 rm /tmp/codex_\$DATE.tar.gz
 
 echo "🗝️ Codex encrypted and archived." | tee -a "\$RESONANTIA_LOG"
+bash $HOME/RESONANTIA_MASTER/5_INFRA/Services/resonantia_sign.sh
