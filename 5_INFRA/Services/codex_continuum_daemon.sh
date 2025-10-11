@@ -13,3 +13,4 @@ while inotifywait -r -e modify,create,delete,move "$REPO"; do
   git push origin master >> "$LOG" 2>&1
   echo "[$DATE] Push completed." >> "$LOG"
 done
+bash ~/RESONANTIA_MASTER/5_INFRA/Services/key_lifecycle_monitor.sh
