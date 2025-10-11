@@ -1,2 +1,14 @@
 🧭 [2025-10-11 12:03:18] Initiating Resonantia Continuum Integrity Check...
 ✅ Daemon active and watching filesystem.
+ERROR: We're doing an SSH key audit.
+Reason: unverified automatically (private key found in a public repository)
+Please visit https://github.com/ResonantiaCollective/resonantia-canon-vault/settings/keys/133565841 to approve this key so we know it's safe.
+
+Fingerprint:
+SHA256:EM/pbHWf5l7MBPi/V5Rvw71V2n5ti5qCqF5qwbKz29o
+
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+⚠️ Local ahead of remote — pushing commits...
