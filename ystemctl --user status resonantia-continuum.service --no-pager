@@ -1,0 +1,946 @@
+[1mdiff --git a/0_OPERATIONS/Logbook/Continuum_Daemon.log b/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[1mindex 9c5cb63..9884346 100644[m
+[1m--- a/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[1m+++ b/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[36m@@ -2429,3 +2429,105389 @@[m [mTo github.com:ResonantiaCollective/resonantia-canon-vault.git[m
+ ✅ [2025-10-11 16:39:01] Push completed successfully.[m
+ 🜂 [2025-10-11 16:39:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+ 🜂 [2025-10-11 16:39:05] FS event detected — preparing to sync...[m
+[32m+[m[32m🜂 [2025-10-11 16:40:36] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook[m
+[32m+[m[32m🜂 Rebase conflict test za 11 okt 2025 16:40:47 CEST[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:47] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:48] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:48] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+[m[32m⚠️  [2025-10-11 16:40:49] Push skipped — another operation in progress.[m
+[32m+[m[32m🜂 [2025-10-11 16:40:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log[m
+[32m+
