@@ -915,3 +915,1066 @@ To github.com:ResonantiaCollective/resonantia-canon-vault.git
 ⚠️ [2025-10-11 15:56:08] Daemon already running — exiting.
 🜂 [2025-10-11 15:56:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/test_trigger.log
 🜂 [2025-10-11 15:56:13] Push lock acquired.
+[master 7ce4026] 🜂 Auto-update via Continuum Daemon @ 2025-10-11 15:56
+ 1 file changed, 9 insertions(+)
+⚠️ [2025-10-11 15:56:18] Daemon already running — exiting.
+🜂 [2025-10-11 15:56:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/test_trigger.log
+⚠️  [2025-10-11 15:56:21] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:56:28] Daemon already running — exiting.
+🜂 [2025-10-11 15:56:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:56:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:56:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:56:37] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:56:39] Daemon already running — exiting.
+🜂 [2025-10-11 15:56:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:56:45] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:56:49] Daemon already running — exiting.
+🜂 [2025-10-11 15:56:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:56:53] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:56:59] Daemon already running — exiting.
+🜂 [2025-10-11 15:57:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:57:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:09] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:57:09] Daemon already running — exiting.
+🜂 [2025-10-11 15:57:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:17] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:57:20] Daemon already running — exiting.
+⚠️  [2025-10-11 15:56:21] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:57:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:25] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:56:29] Still locked — skipping to avoid conflict.
+⚠️ [2025-10-11 15:57:30] Daemon already running — exiting.
+🜂 [2025-10-11 15:57:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:33] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:56:37] Still locked — skipping to avoid conflict.
+⚠️ [2025-10-11 15:57:40] Daemon already running — exiting.
+🜂 [2025-10-11 15:57:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:41] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:56:45] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:57:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:49] Push skipped — lock active, waiting 60s.
+⚠️ [2025-10-11 15:57:50] Daemon already running — exiting.
+⚠️  [2025-10-11 15:56:53] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:57:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:57] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:01] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:01] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook
+🜂 [2025-10-11 15:58:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:09] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:13] Push skipped — lock active, waiting 60s.
+nohup: ignoring input
+🜂 [2025-10-11 15:58:14] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook
+Setting up watches.  Beware: since -r was given, this may take a while!
+Watches established.
+🜂 [2025-10-11 15:58:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:57:17] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:25] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:33] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:41] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 15:58:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:45] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:49] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:58:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 15:58:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:53] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:58:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:58:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:57:57] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 15:59:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:01] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:05] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 15:59:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:09] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:13] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:58:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:58:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 15:59:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 15:59:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 15:59:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:00:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:00:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 15:59:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 15:59:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:01] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 16:01:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:09] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:10] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:00:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:38] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 16:01:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:00:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:00:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:01:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:01:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:01:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:29] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 16:02:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:02:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:02:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:02:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:01:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:01:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:02:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:02:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:03:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:57] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:57] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:03:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:03:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:05] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:05] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:13] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:13] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:21] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:21] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:29] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:29] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:37] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:37] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:45] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:45] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:04:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:53] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:53] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:04:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:04:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:03:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:57] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:03:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:01] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:01] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:05] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:09] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:09] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:13] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:17] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:17] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:21] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:25] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:25] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:29] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:33] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:33] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:37] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:41] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:41] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:45] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:05:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:49] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:49] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:05:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:05:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:04:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:53] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:04:54] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:01] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:02] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:09] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:10] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:17] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:18] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:25] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:26] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:33] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:34] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:41] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:42] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:49] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:05:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:07:38] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook
+Terminated
+🜂 [2025-10-11 16:07:38] Daemon exiting.
+🜂 [2025-10-11 16:07:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 16:07:38] Daemon exiting.
+🜂 [2025-10-11 16:07:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:07:46] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:07:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:07:54] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:02] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:10] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:18] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:26] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:34] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:08:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:07:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:08:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:07:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:08:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:08:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:09:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:09:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:08:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:09:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:10:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:10:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:11:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:11:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:10:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:11:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:12:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:12:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:13:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:13:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:12:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:50] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:50] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:13:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:14:58] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:14:58] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:06] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:06] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:14] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:14] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:22] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:22] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:30] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:30] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:38] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:38] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:46] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:46] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:50] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:15:54] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:15:54] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:14:58] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:02] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:02] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:06] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:10] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:10] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:14] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:18] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:18] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:22] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:26] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:26] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:30] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:34] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:34] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:38] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:42] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:42] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:46] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:15:54] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:16:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:16:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:02] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:10] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:15] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:18] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:26] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:34] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:42] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:17:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:16:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:31] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:18:35] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:18:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:17:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:17:55] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:18:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:18:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:11] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:15] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:19] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:27] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:35] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:43] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:19:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:19:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:18:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:31] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:35] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:19:55] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:20:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:20:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:11] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:15] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:19] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:27] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:35] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:43] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:21:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:21:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:20:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:31] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:35] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:21:55] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:22:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:11] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:23:15] Push skipped — lock active, waiting 60s.
+🜂 [2025-10-11 16:23:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:22:19] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:27] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:35] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:43] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:23:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:23:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:22:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:31] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:35] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:23:55] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:24:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:24:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:11] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:15] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:19] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:27] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:35] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:43] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:25:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:25:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:24:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:31] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:35] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:25:55] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:26:59] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:26:59] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:07] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:07] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:11] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:15] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:15] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:19] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:23] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:23] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:27] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:31] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:31] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:35] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:39] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:39] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:43] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:47] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:47] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:51] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:27:55] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:27:55] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:26:59] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:03] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:03] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:07] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:11] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:11] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:15] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:19] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:19] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:23] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:27] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:27] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:31] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:35] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:35] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:39] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:43] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:43] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:47] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:28:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+⚠️  [2025-10-11 16:28:51] Push skipped — lock active, waiting 60s.
+⚠️  [2025-10-11 16:27:55] Still locked — skipping to avoid conflict.
+⚠️  [2025-10-11 16:28:03] Still locked — skipping to avoid conflict.
+🜂 [2025-10-11 16:29:04] Daemon exiting.
+🜂 [2025-10-11 16:29:04] Daemon exiting.
+🜂 [2025-10-11 16:29:04] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook
+🜂 [2025-10-11 16:32:51] Continuum daemon starting. Watching: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook
+🜂 Daemon verification za 11 okt 2025 16:35:51 CEST
+🜂 [2025-10-11 16:35:51] FS event: /home/commandant/RESONANTIA_MASTER/0_OPERATIONS/Logbook/Continuum_Daemon.log
+🜂 [2025-10-11 16:35:51] FS event detected — preparing to sync...
