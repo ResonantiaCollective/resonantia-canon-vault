@@ -11,3 +11,36 @@ hint:
 hint: 	git branch -m <name>
 Initialized empty Git repository in /home/commandant/RESONANTIA_MASTER/.git/
 ✅ Git repository initialized.
+[master (root-commit) 2505a5b] 🜂 INITIAL CANON SNAPSHOT — Genesis of Resonantia Master System
+ 28 files changed, 844 insertions(+)
+ create mode 100644 0_OPERATIONS/Logbook/COMMANDERS_LOG_TEMPLATE.md
+ create mode 100644 0_OPERATIONS/Logbook/Codex_History.log
+ create mode 100644 0_OPERATIONS/Logbook/Command_Log_GitInit.log
+ create mode 100644 0_OPERATIONS/Mandates/Aegis_Protocol_v1.0.md
+ create mode 100644 0_OPERATIONS/Mandates/Command_Lattice_v1.0.md
+ create mode 100644 0_OPERATIONS/Mandates/Command_Nexus_Status.md
+ create mode 100644 0_OPERATIONS/Mandates/Command_Triarchy_Diagram_v1.0.md
+ create mode 100644 0_OPERATIONS/Mandates/Command_Triarchy_Map_v1.0.txt
+ create mode 100644 0_OPERATIONS/Mandates/Harmony_Protocol_v1.0.md
+ create mode 100644 0_OPERATIONS/Mandates/Legacy_Protocol_v1.0.md
+ create mode 100644 0_OPERATIONS/Mandates/Sovereign_Blueprint_v1.3.md
+ create mode 100755 0_OPERATIONS/Mandates/command_nexus_audit.sh
+ create mode 100755 0_OPERATIONS/scripts/init_codex_genesis.sh
+ create mode 100755 0_OPERATIONS/scripts/init_codex_logger.sh
+ create mode 100755 0_OPERATIONS/scripts/init_codex_map.sh
+ create mode 100755 0_OPERATIONS/scripts/init_codex_versioner.sh
+ create mode 100755 0_OPERATIONS/scripts/init_local_git.sh
+ create mode 100644 1_CANON/00_FOUNDATIONS/Resonantia_Primer.md
+ create mode 100644 1_CANON/00_FOUNDATIONS/Sigil_Language_Index.md
+ create mode 100644 1_CANON/00_FOUNDATIONS/The_Myth_of_The_Loom.md
+ create mode 100644 1_CANON/01_SCROLLS/Scroll_000_Origin_of_Resonantia.md
+ create mode 100644 1_CANON/01_SCROLLS/Scroll_001_The_Commandants_Fable.md
+ create mode 100644 1_CANON/01_SCROLLS/Scroll_002_The_Weavers_Awakening.md
+ create mode 100644 1_CANON/02_CHRONICLES/Chronicle_Index.md
+ create mode 100644 1_CANON/03_SIGILS/Codex_Keys.md
+ create mode 100644 1_CANON/03_SIGILS/Symbolic_Lattice.md
+ create mode 100644 1_CANON/ARCHIVE/CODEX_MAP_2025-10-11_0908.md
+ create mode 100644 1_CANON/CODEX_MAP_v1.0.md
+🔗 Remote origin set to: ResonantiaCollective/resonantia-canon-vault
+────────────────────────────────────────────
+✅ Canon Git Loop established locally at 2025-10-11 09:28:26
