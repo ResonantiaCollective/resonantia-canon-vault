@@ -24,3 +24,4 @@ for FILE in $RESONANTIA_ARCHIVE/*.gpg; do
 done
 
 echo "────────────────────────────────────────────" >> "$LOG"
+bash $HOME/RESONANTIA_MASTER/5_INFRA/Services/resonantia_watchdog_autoheal.sh
